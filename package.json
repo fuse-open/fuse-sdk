@@ -1,0 +1,33 @@
+{
+  "name": "fuse-sdk",
+  "version": "1.12.0-rc.1",
+  "description": "Build beautiful, high-performance iOS and Android apps with a single codebase.",
+  "dependencies": {
+    "@fuse-open/fuselibs": "~1.12.0",
+    "@fuse-open/uno": "~1.12.0"
+  },
+  "scripts": {
+    "test": "uno create app -capp -f && uno build app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mortend/fuse-sdk.git"
+  },
+  "keywords": [
+    "fuse",
+    "cross-platform",
+    "mobile",
+    "app",
+    "framework",
+    "javascript",
+    "typescript",
+    "uno",
+    "ux"
+  ],
+  "author": "Fuse Open",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mortend/fuse-sdk/issues"
+  },
+  "homepage": "https://github.com/mortend/fuse-sdk#readme"
+}
