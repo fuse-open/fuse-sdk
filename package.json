@@ -6,6 +6,9 @@
     "@fuse-open/fuselibs": "~1.12.0",
     "@fuse-open/uno": "~1.12.0"
   },
+  "bin": {
+    "uno": "node_modules/.bin/uno"
+  },
   "scripts": {
     "test": "uno create app -capp -f && uno build app"
   },
