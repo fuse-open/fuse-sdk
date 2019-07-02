@@ -29,3 +29,5 @@ You can also easily integrate with lower level code for the IoT and more, via th
 ## Documentation
 
 Please find our official documentation at [fuseopen.com/docs](https://fuseopen.com/docs).
+
+A quick introduction to using Fuse SDK can be found on [Medium](https://medium.com/@mortendanielfornes/introducing-fuse-sdk-890180044c13).
