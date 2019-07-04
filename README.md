@@ -2,6 +2,7 @@
 
 *Build beautiful, high-performance iOS and Android apps with a single codebase.*
 
+[![AppVeyor build status](https://img.shields.io/appveyor/ci/mortend/fuse-sdk/master.svg?logo=appveyor&logoColor=silver&style=flat-square)](https://ci.appveyor.com/project/mortend/fuse-sdk/branch/master)
 [![NPM package](https://img.shields.io/npm/v/fuse-sdk.svg?style=flat-square)](https://www.npmjs.com/package/fuse-sdk)
 [![License: MIT](https://img.shields.io/github/license/mortend/fuse-sdk.svg?style=flat-square)](LICENSE.txt)
 [![Slack](https://img.shields.io/badge/chat-on%20slack-blue.svg?style=flat-square)](https://slackcommunity.fusetools.com/)
