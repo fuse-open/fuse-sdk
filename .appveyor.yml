@@ -1,0 +1,13 @@
+version: '{build}'
+image: Visual Studio 2017
+
+build_script:
+  - npm install
+  - npm pack
+
+artifacts:
+  - path: fuse-sdk-*.tgz
+
+test_script:
+  - bash -c "npm install -g fuse-sdk-*.tgz"
+  - uno --version
