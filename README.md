@@ -20,7 +20,7 @@ the tooling globally on your system.
 Please note that this package contains .NET software that will need [Mono](http://www.mono-project.com/download/)
 to run on Linux and macOS.
 
-## Abstract
+## What is it?
 
 Fuse SDK is part of the [Fuse Open](https://fuseopen.com) project, an open-source cross-platform mobile app development tool suite, which supports building Android and iOS applications.
 
@@ -28,11 +28,13 @@ With Fuse SDK you can build native mobile user interfaces using the easy to lear
 
 You can also easily integrate with lower level code for the IoT and more, via the powerful and C#-like Uno programming language, where you can easily access native APIs in Java, Objective-C and C/C++. For rapid development, you can even build and test your app directly on your desktop Linux, macOS or Windows computer as well.
 
-## Documentation
+### More information
 
 Please find our official documentation at [fuseopen.com/docs](https://fuseopen.com/docs).
 
 A quick introduction to using Fuse SDK can be found on [Medium](https://medium.com/@mortendanielfornes/introducing-fuse-sdk-890180044c13).
+
+Come chat with us on [Slack](https://slackcommunity.fusetools.com/).
 
 ## Contributors
 
