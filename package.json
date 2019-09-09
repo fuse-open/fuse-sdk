@@ -1,6 +1,6 @@
 {
   "name": "fuse-sdk",
-  "version": "1.12.0-rc.4",
+  "version": "1.12.0",
   "description": "Build beautiful, high-performance iOS and Android apps with a single codebase.",
   "dependencies": {
     "@fuse-open/fuselibs": "~1.12.0",
