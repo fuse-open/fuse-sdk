@@ -1,22 +1,35 @@
-[<img src="fuseopen.png" alt="Fuse Open" width="200" />](https://fuseopen.com)
+<p align="center"><a href="https://fuseopen.com"><img src="img/fuseopen.png" alt="Fuse Open" width="300" /></a></p>
+<p align="center"><em>Build beautiful, high-performance iOS and Android apps with a single codebase.</em></p>
 
-*Build beautiful, high-performance iOS and Android apps with a single codebase.*
+<p align="center">
+<a href="https://ci.appveyor.com/project/mortend/fuse-sdk/branch/master"><img src="https://img.shields.io/appveyor/ci/mortend/fuse-sdk/master.svg?logo=appveyor&amp;logoColor=silver&amp;style=flat-square" alt="AppVeyor build status"></a>
+<a href="https://www.npmjs.com/package/fuse-sdk"><img src="https://img.shields.io/npm/v/fuse-sdk.svg?style=flat-square" alt="NPM package"></a>
+<a href="https://slackcommunity.fusetools.com/"><img src="https://img.shields.io/badge/chat-on slack-blue.svg?style=flat-square" alt="Slack"></a>
+<a href="https://opencollective.com/fuse-open"><img src="https://opencollective.com/fuse-open/all/badge.svg?label=financial+contributors&amp;style=flat-square" alt="Financial Contributors on Open Collective"></a>
+<a href="LICENSE.txt"><img src="https://img.shields.io/github/license/mortend/fuse-sdk.svg?style=flat-square" alt="License: MIT"></a>
+</p>
 
-[![AppVeyor build status](https://img.shields.io/appveyor/ci/mortend/fuse-sdk/master.svg?logo=appveyor&logoColor=silver&style=flat-square)](https://ci.appveyor.com/project/mortend/fuse-sdk/branch/master)
-[![NPM package](https://img.shields.io/npm/v/fuse-sdk.svg?style=flat-square)](https://www.npmjs.com/package/fuse-sdk)
-[![Slack](https://img.shields.io/badge/chat-on%20slack-blue.svg?style=flat-square)](https://slackcommunity.fusetools.com/)
-[![Financial Contributors on Open Collective](https://opencollective.com/fuse-open/all/badge.svg?label=financial+contributors&style=flat-square)](https://opencollective.com/fuse-open)
-[![License: MIT](https://img.shields.io/github/license/mortend/fuse-sdk.svg?style=flat-square)](LICENSE.txt)
+<p align="center">
+<img src="https://img.shields.io/badge/user experience-impressive-brightgreen?style=flat-square" alt="User experience">
+<img src="https://img.shields.io/badge/performance-excellent-brightgreen?style=flat-square" alt="Performance">
+<img src="https://img.shields.io/badge/supported platforms-Android | iOS | macOS | Linux | Windows-brightgreen?style=flat-square" alt="Supported platforms">
+</p>
 
-![User experience](https://img.shields.io/badge/user%20experience-impressive-brightgreen?style=flat-square)
-![Performance](https://img.shields.io/badge/performance-excellent-brightgreen?style=flat-square)
-![Supported platforms](https://img.shields.io/badge/supported%20platforms-Android%20%7C%20iOS%20%7C%20macOS%20%7C%20Linux%20%7C%20Windows-brightgreen?style=flat-square)
+---
 
-Fuse SDK is part of the [Fuse Open](https://fuseopen.com) project, a set of open-source tools and libraries for cross-platform mobile app development.
+<p align="center">
+<a href="https://www.npmjs.com/package/fuse-sdk"><img src="img/fuse_sdk.png" alt="Fuse SDK" width="222" /></a>
+<a href="https://www.npmjs.com/package/@fuse-open/fuselibs"><img src="img/fuselibs.png" alt="Fuselibs" width="222" /></a>
+<a href="https://www.npmjs.com/package/@fuse-open/uno"><img src="img/uno.png" alt="Uno" width="222" /></a>
+</p>
 
-You can build native mobile user interfaces using the easy to learn [UX markup language](https://fuseopen.com/docs/ux-markup/ux-markup.html), and add JavaScript or TypeScript for business logic. UX is a declarative, XML based language for expressing user interfaces, layout, effects and motion, where animation is a first class citizen, and where you can easily produce very advanced visuals and user interfaces.
+---
 
-You can interface with lower level code via the very powerful [Uno programming language](https://fuseopen.com/docs/uno/uno-lang), a C#-like language where you can seamlessly access any native API in Java, Objective-C and C/C++, implement new Fuse components, or just write some superfast code. Uno compiles down to native C++ and is one of the fastest and most versatile programming languages around.
+Fuse SDK is a set of open-source tools and libraries for cross-platform mobile app development.
+
+Build user interfaces using the easy to learn [UX markup language](https://fuseopen.com/docs/ux-markup/ux-markup.html), and add [JavaScript or TypeScript](https://fuseopen.com/docs/fusejs/fusejs.html) for business logic. UX markup is a declarative, XML based language for expressing user interfaces, layout, effects and motion, where animation is a first class citizen, and where you can easily produce advanced visuals and user interfaces.
+
+Access lower level features via the very powerful [Uno programming language](https://fuseopen.com/docs/uno/uno-lang). This is a modern, C#-like language where you can seamlessly access any native API in Java, Objective-C and C/C++, implement new Fuse components, or just write some superfast code. Uno is optimized for performance and portability, compiles down to native C++, and is one of the fastest and most versatile programming languages around. The UI-engine and most run-time features in Fuse are implemented in Uno.
 
 For rapid development, you can even build and test apps directly on your development machine. Fuse apps run on Linux, Mac and Windows, in addition to Android and iOS.
 
@@ -30,7 +43,7 @@ This will install Fuse SDK, including [`uno`](https://github.com/fuse-open/uno) 
 
 ## Usage
 
-Please refer to the following links for more information.
+Please refer to the following links for information about using Fuse SDK.
 
 * A quick introduction to using Fuse SDK can be found in [this blog post](https://medium.com/@mortendanielfornes/introducing-fuse-sdk-890180044c13).
 
