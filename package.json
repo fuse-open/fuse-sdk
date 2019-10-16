@@ -4,17 +4,12 @@
   "description": "Build beautiful, high-performance iOS and Android apps with a single codebase.",
   "dependencies": {
     "@fuse-open/fuselibs": "~1.12.0",
-    "@fuse-open/uno": "~1.12.0",
-    "chalk": "^2.4.2",
-    "is-installed": "^2.0.1",
-    "is-windows": "^1.0.2",
-    "which": "^1.3.1"
+    "@fuse-open/uno": "~1.12.0"
   },
   "bin": {
     "uno": "node_modules/@fuse-open/uno/bin/uno.js"
   },
   "scripts": {
-    "install": "node install.js",
     "test": "uno create app -capp -f && uno build app"
   },
   "repository": {
