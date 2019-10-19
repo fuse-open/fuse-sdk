@@ -15,7 +15,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mortend/fuse-sdk.git"
+    "url": "git+https://github.com/fuse-open/fuse-sdk.git"
   },
   "keywords": [
     "fuse",
@@ -31,7 +31,7 @@
   "author": "Fuse Open",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mortend/fuse-sdk/issues"
+    "url": "https://github.com/fuse-open/fuse-sdk/issues"
   },
-  "homepage": "https://github.com/mortend/fuse-sdk#readme"
+  "homepage": "https://github.com/fuse-open/fuse-sdk#readme"
 }

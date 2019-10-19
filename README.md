@@ -6,7 +6,7 @@
 <a href="https://www.npmjs.com/package/fuse-sdk"><img src="https://img.shields.io/npm/v/fuse-sdk.svg?style=flat-square" alt="NPM package"></a>
 <a href="https://slackcommunity.fusetools.com/"><img src="https://img.shields.io/badge/chat-on slack-blue.svg?style=flat-square" alt="Slack"></a>
 <a href="https://opencollective.com/fuse-open"><img src="https://opencollective.com/fuse-open/all/badge.svg?label=financial+contributors&amp;style=flat-square" alt="Financial Contributors on Open Collective"></a>
-<a href="LICENSE.txt"><img src="https://img.shields.io/github/license/mortend/fuse-sdk.svg?style=flat-square" alt="License: MIT"></a>
+<a href="LICENSE.txt"><img src="https://img.shields.io/github/license/fuse-open/fuse-sdk.svg?style=flat-square" alt="License: MIT"></a>
 </p>
 
 <p align="center">
@@ -56,7 +56,7 @@ Please refer to the following links for information about using Fuse SDK.
 ### Code Contributors
 
 This project exists thanks to all the people who contribute. [[Contribute](CONTRIBUTING.md)]
-<a href="https://github.com/mortend/fuse-sdk/graphs/contributors"><img src="https://opencollective.com/fuse-open/contributors.svg?width=890&button=false" /></a>
+<a href="https://github.com/fuse-open/fuse-sdk/graphs/contributors"><img src="https://opencollective.com/fuse-open/contributors.svg?width=890&button=false" /></a>
 
 ### Financial Contributors
 
