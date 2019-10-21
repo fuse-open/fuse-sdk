@@ -51,6 +51,8 @@ Please refer to the following links for information about using Fuse SDK.
 
 * Come chat with us on [Slack](https://slackcommunity.fusetools.com/) and join the [forums](https://forums.fusetools.com/).
 
+* The old, but still useful [YouTube playlist](https://www.youtube.com/playlist?list=PLdlqWm6b-XALJgM3fGa4q95Yipsgb8Q1o).
+
 ## Contributors
 
 ### Code Contributors
