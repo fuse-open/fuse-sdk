@@ -49,7 +49,7 @@ Please refer to the following links for information about using Fuse SDK.
 
 * Check out the [official documentation](https://fuseopen.com/docs), [examples](https://fuseopen.com/examples/) and [source code](https://github.com/fuse-open).
 
-* Come chat with us on [Slack](https://slackcommunity.fusetools.com/).
+* Come chat with us on [Slack](https://slackcommunity.fusetools.com/) and join the [forums](https://forums.fusetools.com/).
 
 ## Contributors
 
