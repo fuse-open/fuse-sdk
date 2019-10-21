@@ -1,4 +1,4 @@
-<p align="center"><a href="https://fuseopen.com"><img src="img/fuseopen.png" alt="Fuse Open" width="300" /></a></p>
+<p align="center"><a href="https://fuseopen.com"><img src="https://github.com/fuse-open/fuse-sdk/raw/8e2179ce599bb5db81db3841a472e8b298019029/img/fuseopen.png" alt="Fuse Open" width="300" /></a></p>
 <p align="center"><em>Build beautiful, high-performance iOS and Android apps with a single codebase.</em></p>
 
 <p align="center">
@@ -18,9 +18,9 @@
 ---
 
 <p align="center">
-<a href="https://www.npmjs.com/package/fuse-sdk"><img src="img/fuse_sdk.png" alt="Fuse SDK" width="222" /></a>
-<a href="https://www.npmjs.com/package/@fuse-open/fuselibs"><img src="img/fuselibs.png" alt="Fuselibs" width="222" /></a>
-<a href="https://www.npmjs.com/package/@fuse-open/uno"><img src="img/uno.png" alt="Uno" width="222" /></a>
+<a href="https://www.npmjs.com/package/fuse-sdk"><img src="https://github.com/fuse-open/fuse-sdk/raw/8e2179ce599bb5db81db3841a472e8b298019029/img/fuse_sdk.png" alt="Fuse SDK" width="222" /></a>
+<a href="https://www.npmjs.com/package/@fuse-open/fuselibs"><img src="https://github.com/fuse-open/fuse-sdk/raw/8e2179ce599bb5db81db3841a472e8b298019029/img/fuselibs.png" alt="Fuselibs" width="222" /></a>
+<a href="https://www.npmjs.com/package/@fuse-open/uno"><img src="https://github.com/fuse-open/fuse-sdk/raw/8e2179ce599bb5db81db3841a472e8b298019029/img/uno.png" alt="Uno" width="222" /></a>
 </p>
 
 ---
