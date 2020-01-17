@@ -1,6 +1,6 @@
 {
   "name": "fuse-sdk",
-  "version": "1.14.0-canary.0",
+  "version": "1.14.0",
   "description": "Build beautiful, high-performance iOS and Android apps with a single codebase.",
   "dependencies": {
     "@fuse-open/fuselibs": "~1.14.0",
