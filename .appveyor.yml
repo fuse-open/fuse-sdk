@@ -10,4 +10,4 @@ artifacts:
 
 test_script:
   - bash -c "npm install -g fuse-sdk-*.tgz"
-  - uno --version
+  - uno build app
