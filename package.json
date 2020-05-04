@@ -11,7 +11,7 @@
   },
   "files": [],
   "scripts": {
-    "test": "uno create app -capp -f && uno build app"
+    "test": "uno build app"
   },
   "repository": {
     "type": "git",

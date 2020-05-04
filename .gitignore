@@ -1,3 +1,4 @@
-app/
+.uno/
+build/
 node_modules/
 *.tgz
