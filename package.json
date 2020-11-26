@@ -4,6 +4,7 @@
   "description": "Build beautiful, high-performance iOS and Android apps with a single codebase.",
   "dependencies": {
     "@fuse-open/fuselibs": "~2.0.0-beta.1",
+    "@fuse-open/types": "^1.14.0",
     "@fuse-open/uno": "~2.0.0-beta.5"
   },
   "bin": {
