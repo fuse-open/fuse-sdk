@@ -11,9 +11,9 @@
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/badge/user experience-impressive-brightgreen?style=flat-square" alt="User experience">
-<img src="https://img.shields.io/badge/performance-excellent-brightgreen?style=flat-square" alt="Performance">
-<img src="https://img.shields.io/badge/supported platforms-Android | iOS | macOS | Linux | Windows-brightgreen?style=flat-square" alt="Supported platforms">
+<img src="https://img.shields.io/badge/user experience-impressive-7F5AB6?style=flat-square" alt="User experience">
+<img src="https://img.shields.io/badge/performance-excellent-7F5AB6?style=flat-square" alt="Performance">
+<img src="https://img.shields.io/badge/supported platforms-Android | iOS | macOS | Linux | Windows-7F5AB6?style=flat-square" alt="Supported platforms">
 </p>
 
 ---
