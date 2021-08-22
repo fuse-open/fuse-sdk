@@ -34,6 +34,8 @@ Access lower level features via the very powerful [Uno programming language](htt
 
 For rapid development, you can even build and test apps directly on your development machine. Fuse apps run on Linux, Mac and Windows, in addition to Android and iOS.
 
+There's also a visual tool suite called [fuse X](https://fuse-x.com), based on Fuse SDK, offering powerful app creation tools, realtime preview (hot reload) and more, available for macOS and Windows.
+
 ## Install
 
 ```shell
