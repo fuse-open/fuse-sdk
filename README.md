@@ -4,7 +4,7 @@
 <p align="center">
 <a href="https://ci.appveyor.com/project/mortend/fuse-sdk/branch/master"><img src="https://img.shields.io/appveyor/ci/mortend/fuse-sdk/master.svg?logo=appveyor&amp;logoColor=silver&amp;style=flat-square" alt="AppVeyor build status"></a>
 <a href="https://www.npmjs.com/package/fuse-sdk"><img src="https://img.shields.io/npm/v/fuse-sdk.svg?style=flat-square" alt="NPM package"></a>
-<a href="https://slackcommunity.fusetools.com/"><img src="https://img.shields.io/badge/chat-on slack-blue.svg?style=flat-square" alt="Slack"></a>
+<a href="https://fusecommunity.slack.com/"><img src="https://img.shields.io/badge/chat-on slack-blue.svg?style=flat-square" alt="Slack"></a>
 <a href="https://opencollective.com/fuse-open"><img src="https://opencollective.com/fuse-open/all/badge.svg?label=financial+contributors&amp;style=flat-square" alt="Financial Contributors on Open Collective"></a>
 <a href="LICENSE.txt"><img src="https://img.shields.io/github/license/fuse-open/fuse-sdk.svg?style=flat-square" alt="License: MIT"></a>
 </p>
@@ -51,7 +51,7 @@ Please refer to the following links for information about using Fuse SDK.
 
 * Check out the [official documentation](https://fuseopen.com/docs), [examples](https://fuseopen.com/examples/) and [source code](https://github.com/fuse-open).
 
-* Come chat with us on [Slack](https://slackcommunity.fusetools.com/) and join the [forums](https://forums.fusetools.com/).
+* Come chat with us on [Slack](https://fusecommunity.slack.com/) and join the [forums](https://forums.fusetools.com/).
 
 * The old, but still useful [YouTube playlist](https://www.youtube.com/playlist?list=PLdlqWm6b-XALJgM3fGa4q95Yipsgb8Q1o).
 
