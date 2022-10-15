@@ -3,15 +3,15 @@
   "version": "2.4.0",
   "description": "Build beautiful, high-performance iOS and Android apps with a single codebase.",
   "dependencies": {
-    "@fuse-open/fuselibs": "~2.4.0",
+    "@fuse-open/fuselibs": "~3.0.0-beta.0",
     "@fuse-open/types": "~2.0.0",
-    "@fuse-open/uno": "~2.4.0"
+    "@fuse-open/uno": "~3.0.0-beta.0"
   },
   "devDependencies": {
     "axios": "^0.27.2"
   },
   "bin": {
-    "uno": "node_modules/@fuse-open/uno/bin/uno.js"
+    "uno": "node_modules/@fuse-open/uno/bin/net6.0/uno.js"
   },
   "files": [
     "scripts/restore.js"
