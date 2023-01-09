@@ -1,6 +1,12 @@
 version: '{build}'
 image: Visual Studio 2017
 
+environment:
+  nodejs_version: 14
+
+install:
+  - ps: Install-Product node $env:nodejs_version
+
 build_script:
   - npm install
   - npm pack
