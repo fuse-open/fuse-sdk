@@ -14,6 +14,7 @@
   "bin": {
     "uno": "node_modules/@fuse-open/uno/bin/net6.0/uno.js"
   },
+  "files": [],
   "scripts": {
     "changelog": "node scripts/changelog.js",
     "prepack": "node scripts/check-dependencies.js",
