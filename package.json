@@ -3,10 +3,10 @@
   "version": "3.0.0-beta.0",
   "description": "Build beautiful, high-performance iOS and Android apps with a single codebase.",
   "dependencies": {
-    "@fuse-open/fuselibs": "~3.0.0-beta.0",
+    "@fuse-open/fuselibs": "~3.0.0-beta.2",
     "@fuse-open/tsconfig": "~2.7.0",
     "@fuse-open/types": "~2.7.1",
-    "@fuse-open/uno": "~3.0.0-beta.1"
+    "@fuse-open/uno": "~3.0.0-beta.5"
   },
   "devDependencies": {
     "axios": "^1.3.5"
