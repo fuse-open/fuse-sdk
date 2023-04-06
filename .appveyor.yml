@@ -2,7 +2,7 @@ version: '{build}'
 image: Visual Studio 2017
 
 environment:
-  nodejs_version: 14
+  nodejs_version: 16
 
 install:
   - ps: Install-Product node $env:nodejs_version
