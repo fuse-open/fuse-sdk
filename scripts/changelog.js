@@ -1,9 +1,9 @@
 const axios = require("axios")
 
 const SDK_VERSION = require("../package.json").version
-const UNO_VERSION = "2.7.0"
-const FUSELIBS_VERSION = "2.7.0"
-const LAST_VERSION = "2.6.0"
+const UNO_VERSION = "2.8.0"
+const FUSELIBS_VERSION = "2.8.0"
+const LAST_VERSION = "2.7.0"
 
 async function getChangelog(url) {
     const request = await axios.get(url)
@@ -27,14 +27,14 @@ npm install fuse-sdk@${SDK_VERSION}
 ### Fuselibs ${FUSELIBS_VERSION}
 
 <details>
-<summary>Click to see the full changelog!</summary>
+<summary>Click to see the full changelog</summary>
 ${fuselibs}
 </details>
 
 ### Uno ${UNO_VERSION}
 
 <details>
-<summary>Click to see the full changelog!</summary>
+<summary>Click to see the full changelog</summary>
 ${uno}
 </details>`)
 }
