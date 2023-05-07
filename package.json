@@ -12,13 +12,16 @@
     "axios": "^1.3.5"
   },
   "bin": {
-    "uno": "node_modules/@fuse-open/uno/bin/net6.0/uno.js"
+    "uno": "uno.js"
   },
-  "files": [],
+  "files": [
+    "uno.js"
+  ],
   "scripts": {
     "changelog": "node scripts/changelog.js",
     "prepack": "node scripts/check-dependencies.js",
-    "test": "uno build app"
+    "test": "uno build app",
+    "uno": "node uno.js"
   },
   "repository": {
     "type": "git",
