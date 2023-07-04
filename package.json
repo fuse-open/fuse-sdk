@@ -20,7 +20,7 @@
   "scripts": {
     "changelog": "node scripts/changelog.js",
     "prepack": "node scripts/check-dependencies.js",
-    "test": "uno build app",
+    "test": "uno build test",
     "uno": "node uno.js"
   },
   "repository": {
