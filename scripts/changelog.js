@@ -1,9 +1,9 @@
 const axios = require("axios")
 
 const SDK_VERSION = require("../package.json").version
-const UNO_VERSION = "2.8.0"
-const FUSELIBS_VERSION = "2.8.0"
-const LAST_VERSION = "2.7.0"
+const UNO_VERSION = "3.0.0-beta.7"
+const FUSELIBS_VERSION = "3.0.0-beta.5"
+const LAST_VERSION = "2.8.0"
 
 async function getChangelog(url) {
     const request = await axios.get(url)
