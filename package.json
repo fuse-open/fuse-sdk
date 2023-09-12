@@ -9,7 +9,7 @@
     "@fuse-open/uno": "~3.0.0-beta.7"
   },
   "devDependencies": {
-    "axios": "^1.4.0"
+    "axios": "^1.5.0"
   },
   "bin": {
     "uno": "uno.js"
